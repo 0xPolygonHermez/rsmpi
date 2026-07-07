@@ -6,8 +6,8 @@ authors = [
     "Andrew Gaspar <andrew.gaspar@outlook.com>"
 ]
 description = "Message Passing Interface bindings for Rust"
-homepage = "https://github.com/rsmpi/rsmpi"
-repository = "https://github.com/rsmpi/rsmpi"
+homepage = "https://github.com/0xPolygonHermez/rsmpi"
+repository = "https://github.com/0xPolygonHermez/rsmpi"
 documentation = "https://docs.rs/mpi"
 keywords = [ "message-passing", "parallel" ]
 categories = [ "external-ffi-bindings" ]

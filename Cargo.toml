@@ -7,8 +7,8 @@ authors = [
   "Jed Brown <jed@jedbrown.org>",
 ]
 description = "Message Passing Interface bindings for Rust"
-homepage = "https://github.com/rsmpi/rsmpi"
-repository = "https://github.com/rsmpi/rsmpi"
+homepage = "https://github.com/0xPolygonHermez/rsmpi"
+repository = "https://github.com/0xPolygonHermez/rsmpi"
 documentation = "https://docs.rs/mpi"
 readme = "README.md"
 keywords = ["message-passing", "parallel"]
