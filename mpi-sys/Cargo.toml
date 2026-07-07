@@ -1,5 +1,5 @@
 [package]
-name = "mpi-sys"
+name = "proofman-mpi-sys"
 version = "0.2.3"
 authors = [
     "Benedikt Steinbusch <ben@rockshrub.de>",
@@ -15,6 +15,11 @@ license = "MIT OR Apache-2.0"
 edition = "2021"
 rust-version = "1.70"
 links = "mpi"
+
+# Keep the importable crate name `mpi_sys` after the package rename so dependents'
+# `use mpi_sys::...` keeps working.
+[lib]
+name = "mpi_sys"
 
 [dependencies]
 
